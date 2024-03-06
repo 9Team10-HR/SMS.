@@ -1,3 +1,2 @@
 # SMS BOMBINGS 
 instillation 
-pkg 
