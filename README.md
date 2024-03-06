@@ -1,2 +1,2 @@
-# SMS BOMBINGS 
-instillation 
+$pkg update 
+pkg upgrade 
